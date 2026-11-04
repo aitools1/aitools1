@@ -12,16 +12,13 @@ $ ls focus/
 геймдев-моды/  десктопный-инструментарий/  скрипты-инфраструктуры/
 ```
 
-## 🔗 портфолио
+## 🌐 мой сайт
 
-**[aitools1.github.io/portfolio](https://aitools1.github.io/portfolio/)** — интерактивный терминал-профиль:
-попробуйте команды `about`, `projects`, `contact`.
+**[aitools1.github.io/portfolio](https://aitools1.github.io/portfolio/)**
 
-## проекты
-
-- **[ChaosMarineMod](https://github.com/aitools1/portfolio)** — мод для Warhammer 40k: Rogue Trader (путь Аримана, десант Хаоса, тактический ИИ) — C# / Harmony *(репозиторий скоро)*
-- **[zomboid-save-guard](https://github.com/aitools1/zomboid-save-guard)** — автоматические бэкапы и восстановление сохранений Project Zomboid — PowerShell
+интерактивный терминал-профиль: кто я, что делаю, проекты и контакты.
+введите `about`, `projects`, `contact` — и смотрите сами.
 
 ---
 
-*Открыт к интересным проектам и экспериментам. Связь — через [портфолио](https://aitools1.github.io/portfolio/).*
+*Открыт к интересным проектам и экспериментам.*
